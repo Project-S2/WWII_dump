@@ -1,0 +1,12 @@
+//
+// Player xanims refix convention:
+//
+// Torso only animation are prefixed with pt_
+// Legs only animations are prefixed with pl_
+// Full body animations (both) are prefixed with pb_
+//
+
+virtual_lobby
+{
+	void
+}

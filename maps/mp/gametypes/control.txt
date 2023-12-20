@@ -1,0 +1,3 @@
+"Control"
+"Control"
+"Capture and hold the Control Point"

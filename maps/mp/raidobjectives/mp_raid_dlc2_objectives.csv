@@ -1,0 +1,6 @@
+0,RAIDS_OBJECTIVE_HUSKY_ALLIES_1,RAIDS_OBJECTIVE_HUSKY_ALLIES_1,allies,waypoint_flag_icon,4,raid_hud_objective_count_icon_intel,allies,OBJECTIVE_DLC2_ALLIES_1_DESC,,,
+1,RAIDS_OBJECTIVE_HUSKY_ALLIES_2,RAIDS_OBJECTIVE_HUSKY_ALLIES_2,allies,waypoint_icon_hardpoint,1,,allies,OBJECTIVE_DLC2_ALLIES_2_DESC,,,
+2,RAIDS_OBJECTIVE_HUSKY_ALLIES_3,RAIDS_OBJECTIVE_HUSKY_ALLIES_3,allies,waypoint_icon_destroy,2,raid_hud_objective_count_icon_fighter,allies,OBJECTIVE_DLC2_ALLIES_3_DESC,1,1,
+3,RAIDS_OBJECTIVE_HUSKY_AXIS_1,RAIDS_OBJECTIVE_HUSKY_AXIS_1,axis,waypoint_flag_icon,4,raid_hud_objective_count_icon_intel,allies,,,,
+4,RAIDS_OBJECTIVE_HUSKY_AXIS_2,RAIDS_OBJECTIVE_HUSKY_AXIS_2,axis,waypoint_icon_hardpoint,1,,allies,,,,
+5,RAIDS_OBJECTIVE_HUSKY_AXIS_3,RAIDS_OBJECTIVE_HUSKY_AXIS_3,axis,waypoint_icon_destroy,2,raid_hud_objective_count_icon_fighter,allies,,1,1,
